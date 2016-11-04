@@ -1,4 +1,5 @@
 # TerminalTable
+[![Build Status](https://travis-ci.org/benoist/terminal_table.cr.svg?branch=master)](https://travis-ci.org/benoist/terminal_table.cr)
 
 Terminal Table is a simple ASCII table generator written in Crystal.
 This code was inspired by Terminal Table Ruby implementation https://github.com/tj/terminal-table
